@@ -6,7 +6,7 @@
 - Go 1.20.3
 
 #### Modules
-- [Fiber](github.com/gofiber/fiber) v2.44.0
+- [Fiber](https://github.com/gofiber/fiber) v2.44.0
 
 #### Running Locally
 - Go to root folder of the repository.
