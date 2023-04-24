@@ -10,5 +10,4 @@
 
 #### Running Locally
 - Go to root folder of the repository.
-- You can easily start local host at port 8080 via command
-- `$ go run .`
+- You can easily start local host at port 8080 via command `$ go run .`
